@@ -3,5 +3,5 @@ Penggunaan MVC
 
 Tugas Project 2 :
 
-    Teten Dwi Rahmi Kiflinda - 2111089011
-    Edo Pratama - 2111089002
+1. Teten Dwi Rahmi Kiflinda - 2111089011
+2. Edo Pratama - 2111089002
